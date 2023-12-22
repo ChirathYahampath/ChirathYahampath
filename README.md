@@ -1,5 +1,16 @@
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=40&center=true&vCenter=true&width=600&height=50&lines=Thanks+For+Visiting+My+Page;"></a>
+</p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px align="center"></picture> 
+</div>
+
 <h1 align="center">Hi 👋, I'm Chirath Yahampath</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL.
 
