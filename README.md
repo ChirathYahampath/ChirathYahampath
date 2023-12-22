@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chirath Yahampath</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
+<p>
+💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL.
+
+🎓 Education and Certifications:
+- Bachelor of Information Technology (UG) - UCSC
+- ICET Certified Master Program - ICET
+- Advanced Level in Biological Science stream - C.W.W Kannangara National Collage - Mathugama (2021)
+
+🏆 Additional Achievements:
+- Member of Football Team - C.W.W Kannangara National Collage - Mathugama (2019)
+- Member of Scool Siging Group - C.W.W Kannangara National Collage - Mathugama (2017)
+
+🌍 I'm constantly seeking opportunities to collaborate, innovate, and grow. Let's connect and explore how we can make a positive impact together in the exciting world of software development.
+
+✉️ Feel free to reach out to me for collaboration, networking, or discussing fascinating tech projects.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirathyahampath&label=Profile%20views&color=0e75b6&style=flat" alt="chirathyahampath" /> </p>
 
