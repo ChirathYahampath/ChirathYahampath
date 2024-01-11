@@ -8,7 +8,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px align="center"></picture> 
 </div>
 
-<h1 align="center">Hi 👋, I'm Chirath Yahampath</h1>
+<h1 align="center">Hi , I'm Chirath Yahampath</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
