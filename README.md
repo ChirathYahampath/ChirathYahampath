@@ -61,3 +61,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirathyahampath&show_icons=true&locale=en" alt="chirathyahampath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirathyahampath&" alt="chirathyahampath" /></p>
+
+<p align="center">
+  <a href="https://github.com/ChirathYahampath">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChirathYahampath&theme=radical" alt="Chirath Yahampath's GitHub Contribution"/>
+  </a>
+</p>
