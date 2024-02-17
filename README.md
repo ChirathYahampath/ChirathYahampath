@@ -28,7 +28,7 @@
 ✉️ Feel free to reach out to me for collaboration, networking, or discussing fascinating tech projects.
 
 
-- 🌱 I’m currently learning **Springboot,JavaFx,JavaScript,React,Angular**
+- 🌱 I’m currently learning ***Springboot,JavaFx,JavaScript,React,Angular**
 
 - 📫 How to reach me **chirathyahampath99@gmail.com**
 
