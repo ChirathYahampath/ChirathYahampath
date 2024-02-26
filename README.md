@@ -14,14 +14,17 @@
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js,C#,.Net and MySQL.
 
+💻Experience
+ -Software Engineer Intern at Agrithmics (Pvt) Ltd -(Feb 2024 - Present · 1 mo)
+
 🎓 Education and Certifications:
-- Bachelor of Information Technology (UG) - UCSC
-- ICET Certified Master Program - ICET
-- Advanced Level in Biological Science stream - C.W.W Kannangara National Collage - Mathugama (2021)
+ - Bachelor of Information Technology (UG) - UCSC
+ - ICET Certified Master Program - ICET
+ - Advanced Level in Biological Science stream - C.W.W Kannangara National Collage - Mathugama (2021)
 
 🏆 Additional Achievements:
-- Member of Football Team - C.W.W Kannangara National Collage - Mathugama(2019)
-- Member of Scool Siging Group - C.W.W Kannangara National Collage - Mathugama(2017)
+ - Member of Football Team - C.W.W Kannangara National Collage - Mathugama(2019)
+  Member of Scool Siging Group - C.W.W Kannangara National Collage - Mathugama(2017)
 
 🌍 I'm constantly seeking opportunities to collaborate, innovate, and grow. Let's connect and explore how we can make a positive impact together in the exciting world of software development.
 
@@ -32,7 +35,7 @@
 
 - 📫 How to reach me **chirathyahampath99@gmail.com**
 
-- 🔭 I’m currently working on **ICET-Institute of Computer Engineering Technology**
+- 🔭 I’m currently working on **ICET-Institute of Computer Engineering Technology **
 
 
 
