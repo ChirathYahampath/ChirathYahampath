@@ -12,10 +12,11 @@
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
+  
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js,C#,.Net and MySQL.
 
 💻Experience
- -Software Engineer Intern at Agrithmics (Pvt) Ltd -(Feb 2024 - Present · 1 mo)
+ -Software Engineer Intern at Agrithmics (Pvt) Ltd -(Feb 2024 - Present)
 
 🎓 Education and Certifications:
  - Bachelor of Information Technology (UG) - UCSC
