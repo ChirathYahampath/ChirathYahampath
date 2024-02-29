@@ -38,8 +38,6 @@
 
 - 🔭 I’m currently working on **ICET-Institute of Computer Engineering Technology **
 
-
-
 </p>
 
 
