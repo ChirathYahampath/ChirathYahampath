@@ -16,7 +16,7 @@
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js,C#,.Net and MySQL.
 
 💻Experience
- -Software Engineer Intern at Agrithmics (Pvt) Ltd -(Feb 2024 - Present)
+ -Software Engineer Intern at Agrithmics (Pvt) Ltd (Feb 2024 - Present)
 
 🎓 Education and Certifications:
  - Bachelor of Information Technology (UG) - UCSC
